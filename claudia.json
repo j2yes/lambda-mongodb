@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "lambda-mongo-executor",
+    "name": "lambda-mongo",
+    "region": "ap-northeast-2"
+  }
+}
